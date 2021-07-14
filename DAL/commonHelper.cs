@@ -12,7 +12,7 @@ using BaseLibrary.Threadlib;
 namespace DAL
 {
     /// <summary>
-    /// 通用类
+    /// 通用类x
     /// </summary>
     public class commonHelper
     {
